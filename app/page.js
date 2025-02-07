@@ -45,11 +45,12 @@ with our AI-powered interview prep</p>
       >
        <AtomIcon className='h-8 w-8'/>
 
-        <h2 className="mt-4 text-xl font-bold text-black">Write promot for your form</h2>
+        <h2 className="mt-4 text-xl font-bold text-black">Sign In & Setup</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+          Log in using authentication (Google, email, or another method).
+          Allow camera access for real-time interaction.
+          Choose the interview type and  experience
         </p>
       </a>
 
@@ -59,11 +60,12 @@ with our AI-powered interview prep</p>
       >
       <Edit className='h-8 w-8'/>
 
-        <h2 className="mt-4 text-xl font-bold text-black">Edit Your form </h2>
+        <h2 className="mt-4 text-xl font-bold text-black">Mock Interview Session</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+          AI (powered by Gemini) asks industry-specific or general interview questions.
+          Your responses are analyzed in real-time using AI.
+          Feedback is provided on confidence, clarity, and relevance.
         </p>
       </a>
 
@@ -73,11 +75,11 @@ with our AI-powered interview prep</p>
       >
       <Share2 className='h-8 w-8' />
 
-        <h2 className="mt-4 text-xl font-bold text-black">Share & Start Accepting Responses</h2>
+        <h2 className="mt-4 text-xl font-bold text-black">Review & Upgrade</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
-          distinctio alias voluptatum blanditiis laudantium.
+          Get detailed feedback and AI-driven suggestions.
+          Upgrade to advanced features for deeper insights, personalized coaching, or premium mock interview sets.
         </p>
       </a>
 
